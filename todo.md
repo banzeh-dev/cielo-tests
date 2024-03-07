@@ -35,3 +35,9 @@
 - [X] Modificando dados do Pagamento da Recorrência
 - [X] Desabilitando um Pedido Recorrente
 - [X] Reabilitando um Pedido Recorrente
+
+# Cielo Super Link
+- [] Criar Link
+- [] Atualizar Link
+- [] Consultar Link
+- [] Excluir Link
